@@ -1,4 +1,4 @@
-<h2 align="center">Olá, eu sou o Nícolas! 👋<br><br>Cursando Engenharia de Software na FIAP | Ex-aluno de ADS no SENAI<br>Atualmente focado em evoluir minhas habilidades em desenvolvimento de software e buscando minha primeira oportunidade como estagiário na área de TI. <br>Desenvolvedor do projeto Gastronauta.</h2>
+<h2 align="center">Olá, eu sou o Nícolas! 👋<br><br>Cursando Engenharia de Software na FIAP | Ex-aluno de ADS no SENAI<br>Atualmente focado em evoluir minhas habilidades em desenvolvimento de software e atuo na Runflow como estagiário de TI. <br>Desenvolvedor do projeto Gastronauta.</h2>
 
 ###
 
@@ -7,11 +7,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="60" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="60" alt="arduino logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="c logo"  />
   <img width="12" />
